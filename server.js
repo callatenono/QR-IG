@@ -2,7 +2,7 @@
 // 302 (temporary) so you can change the destination later without cache issues
 const http = require('http');
 
-const TARGET = process.env.TARGET_URL || 'https://www.instagram.com/callateenono';
+const TARGET = process.env.TARGET_URL || 'hhttps://linktr.ee/callatenonoo';
 const PORT = process.env.PORT || 3000;
 
 http.createServer((req, res) => {
