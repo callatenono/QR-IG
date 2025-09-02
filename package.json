@@ -1,0 +1,14 @@
+{
+  "name": "railway-redirect-callatenono",
+  "version": "1.0.0",
+  "description": "Simple 302 redirect to Instagram using Node.js on Railway",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
